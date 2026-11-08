@@ -1,0 +1,11 @@
+[
+    {
+        "id_producto": "PS-001",
+        "nombre": "Solar Uno",
+        "precio": "$300.00",
+        "stock": 10,
+        "tipo": "Panel Solar",
+        "potencia_w": 300,
+        "eficiencia": 22.5
+    }
+]
